@@ -3,4 +3,5 @@ div img {
     height: 50 em; */
     border: 1px solid black;   
     justify-items: center; 
+    margin-bottom: 30px;
 }
